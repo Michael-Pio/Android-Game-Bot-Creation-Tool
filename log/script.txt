@@ -1,0 +1,16 @@
+D:\\Dev\\OfficialProjects\\First_Year_IBM_project\\log\\CommandsLog.txt
+1
+
+---level
+PerFormingWell
+Low Impact
+Medium Impact
+Intermediate
+High Impact
+Critical Impact
+---end
+
+---type
+adb
+cmd
+---end

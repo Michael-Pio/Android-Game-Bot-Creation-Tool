@@ -1,0 +1,882 @@
+00:59:32,1,1,HappyLogger Class-instance Created
+00:59:32,2,3,Live Log Displayer Launched
+00:59:32,2,3,Memu Has been Launched through consol
+00:59:37,2,5,Killing ADB server
+00:59:40,2,5,Starting ADB server
+00:59:47,2,5,Attempting to See attached Devices
+00:59:47,1,6,No Device Found
+00:59:47,2,5,Attempting to establish connection
+00:59:49,1,5,b'cannot connect to 127.0.0.1:21503: No connection could be ma'
+00:59:49,1,1,Launching Hayday Game
+00:59:49,1,1,b''
+01:00:09,1,1,Screen Captured on Device
+01:00:09,1,1,b'adb: error: failed to get feature set: no devices/emulators '
+04:17:11,1,1,HappyLogger Class-instance Created
+04:17:11,2,3,Live Log Displayer Launched
+04:17:11,2,3,Memu Has been Launched through consol
+04:17:16,2,5,Killing ADB server
+04:17:16,2,5,Starting ADB server
+04:17:23,2,5,Attempting to See attached Devices
+04:17:23,1,6,No Device Found
+04:17:23,2,5,Attempting to establish connection
+04:17:25,1,5,b'cannot connect to 127.0.0.1:21503: No connection could be ma'
+04:17:25,1,1,Launching Hayday Game
+04:17:25,1,1,b''
+20:37:03,1,1,HappyLogger Class-instance Created
+20:37:03,2,3,Live Log Displayer Launched
+20:37:03,2,3,Memu Has been Launched through consol
+20:37:53,2,5,Killing ADB server
+20:37:53,2,5,Starting ADB server
+20:38:01,2,5,Attempting to See attached Devices
+20:38:01,1,6,No Device Found
+20:38:01,2,5,Attempting to establish connection
+20:38:11,1,5,b'failed to connect to localhost:21503\r\n'
+20:38:11,1,1,Launching Hayday Game
+20:38:11,1,1,b''
+20:38:31,1,1,Screen Captured on Device
+20:38:31,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:38:35,2,1,Recentering screen
+20:38:35,1,1,Executing zoomOut.sh
+20:38:35,1,1,b''
+20:38:35,1,1,Executing zoomOut.sh
+20:38:35,1,1,b''
+20:38:35,1,1,Action ->swipe 200 500 400 750 100
+20:38:35,1,1,Action ->swipe 200 500 400 750 100
+20:38:35,1,1,Action ->swipe 200 500 400 750 100
+20:38:35,1,1,Action ->swipe 200 500 400 750 100
+20:38:35,2,1,Recentered screen
+20:38:38,1,1,Screen Captured on Device
+20:38:39,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:38:44,1,1,input Keyevent sent 4
+20:38:44,1,1,Back Button Pressed
+20:38:46,1,1,Action ->Tap 700 700
+20:38:49,1,1,input Keyevent sent 3
+20:38:49,1,1,Home Button Pressed
+20:38:52,1,1,Launching Hayday Game
+20:38:52,1,1,b''
+20:39:12,1,1,Screen Captured on Device
+20:39:12,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:39:16,2,1,Recentering screen
+20:39:16,1,1,Executing zoomOut.sh
+20:39:16,1,1,b''
+20:39:16,1,1,Executing zoomOut.sh
+20:39:16,1,1,b''
+20:39:16,1,1,Action ->swipe 200 500 400 750 100
+20:39:16,1,1,Action ->swipe 200 500 400 750 100
+20:39:16,1,1,Action ->swipe 200 500 400 750 100
+20:39:16,1,1,Action ->swipe 200 500 400 750 100
+20:39:16,2,1,Recentered screen
+20:39:20,1,1,Screen Captured on Device
+20:39:20,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:39:25,1,1,input Keyevent sent 4
+20:39:25,1,1,Back Button Pressed
+20:39:27,1,1,Action ->Tap 700 700
+20:39:30,1,1,input Keyevent sent 3
+20:39:30,1,1,Home Button Pressed
+20:39:33,1,1,Launching Hayday Game
+20:39:33,1,1,b''
+20:39:53,1,1,Screen Captured on Device
+20:39:53,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:39:57,2,1,Recentering screen
+20:39:57,1,1,Executing zoomOut.sh
+20:39:57,1,1,b''
+20:39:57,1,1,Executing zoomOut.sh
+20:39:57,1,1,b''
+20:39:57,1,1,Action ->swipe 200 500 400 750 100
+20:39:57,1,1,Action ->swipe 200 500 400 750 100
+20:39:57,1,1,Action ->swipe 200 500 400 750 100
+20:39:57,1,1,Action ->swipe 200 500 400 750 100
+20:39:57,2,1,Recentered screen
+20:40:01,1,1,Screen Captured on Device
+20:40:01,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:40:06,1,1,input Keyevent sent 4
+20:40:06,1,1,Back Button Pressed
+20:40:08,1,1,Action ->Tap 700 700
+20:40:11,1,1,input Keyevent sent 3
+20:40:11,1,1,Home Button Pressed
+20:40:14,1,1,Launching Hayday Game
+20:40:14,1,1,b''
+20:40:34,1,1,Screen Captured on Device
+20:40:34,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:40:38,2,1,Recentering screen
+20:40:38,1,1,Executing zoomOut.sh
+20:40:38,1,1,b''
+20:40:38,1,1,Executing zoomOut.sh
+20:40:38,1,1,b''
+20:40:38,1,1,Action ->swipe 200 500 400 750 100
+20:40:38,1,1,Action ->swipe 200 500 400 750 100
+20:40:39,1,1,Action ->swipe 200 500 400 750 100
+20:40:39,1,1,Action ->swipe 200 500 400 750 100
+20:40:39,2,1,Recentered screen
+20:40:42,1,1,Screen Captured on Device
+20:40:42,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:40:47,1,1,input Keyevent sent 4
+20:40:47,1,1,Back Button Pressed
+20:40:49,1,1,Action ->Tap 700 700
+20:40:52,1,1,input Keyevent sent 3
+20:40:52,1,1,Home Button Pressed
+20:40:55,1,1,Launching Hayday Game
+20:40:55,1,1,b''
+20:41:15,1,1,Screen Captured on Device
+20:41:15,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:41:19,2,1,Recentering screen
+20:41:19,1,1,Executing zoomOut.sh
+20:41:19,1,1,b''
+20:41:19,1,1,Executing zoomOut.sh
+20:41:19,1,1,b''
+20:41:19,1,1,Action ->swipe 200 500 400 750 100
+20:41:19,1,1,Action ->swipe 200 500 400 750 100
+20:41:20,1,1,Action ->swipe 200 500 400 750 100
+20:41:20,1,1,Action ->swipe 200 500 400 750 100
+20:41:20,2,1,Recentered screen
+20:41:23,1,1,Screen Captured on Device
+20:41:23,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:41:28,1,1,input Keyevent sent 4
+20:41:28,1,1,Back Button Pressed
+20:41:30,1,1,Action ->Tap 700 700
+20:41:33,1,1,input Keyevent sent 3
+20:41:33,1,1,Home Button Pressed
+20:41:36,1,1,Launching Hayday Game
+20:41:36,1,1,b''
+20:41:56,1,1,Screen Captured on Device
+20:41:56,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:42:00,2,1,Recentering screen
+20:42:00,1,1,Executing zoomOut.sh
+20:42:00,1,1,b''
+20:42:00,1,1,Executing zoomOut.sh
+20:42:00,1,1,b''
+20:42:00,1,1,Action ->swipe 200 500 400 750 100
+20:42:00,1,1,Action ->swipe 200 500 400 750 100
+20:42:01,1,1,Action ->swipe 200 500 400 750 100
+20:42:01,1,1,Action ->swipe 200 500 400 750 100
+20:42:01,2,1,Recentered screen
+20:42:04,1,1,Screen Captured on Device
+20:42:04,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:42:09,1,1,input Keyevent sent 4
+20:42:09,1,1,Back Button Pressed
+20:42:11,1,1,Action ->Tap 700 700
+20:42:14,1,1,input Keyevent sent 3
+20:42:14,1,1,Home Button Pressed
+20:42:17,1,1,Launching Hayday Game
+20:42:17,1,1,b''
+20:42:37,1,1,Screen Captured on Device
+20:42:37,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:42:41,2,1,Recentering screen
+20:42:41,1,1,Executing zoomOut.sh
+20:42:41,1,1,b''
+20:42:41,1,1,Executing zoomOut.sh
+20:42:41,1,1,b''
+20:42:41,1,1,Action ->swipe 200 500 400 750 100
+20:42:41,1,1,Action ->swipe 200 500 400 750 100
+20:42:42,1,1,Action ->swipe 200 500 400 750 100
+20:42:42,1,1,Action ->swipe 200 500 400 750 100
+20:42:42,2,1,Recentered screen
+20:42:45,1,1,Screen Captured on Device
+20:42:45,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:42:50,1,1,input Keyevent sent 4
+20:42:50,1,1,Back Button Pressed
+20:42:52,1,1,Action ->Tap 700 700
+20:42:55,1,1,input Keyevent sent 3
+20:42:55,1,1,Home Button Pressed
+20:42:58,1,1,Launching Hayday Game
+20:42:58,1,1,b''
+20:43:18,1,1,Screen Captured on Device
+20:43:18,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:43:22,2,1,Recentering screen
+20:43:22,1,1,Executing zoomOut.sh
+20:43:22,1,1,b''
+20:43:22,1,1,Executing zoomOut.sh
+20:43:22,1,1,b''
+20:43:22,1,1,Action ->swipe 200 500 400 750 100
+20:43:22,1,1,Action ->swipe 200 500 400 750 100
+20:43:23,1,1,Action ->swipe 200 500 400 750 100
+20:43:23,1,1,Action ->swipe 200 500 400 750 100
+20:43:23,2,1,Recentered screen
+20:43:26,1,1,Screen Captured on Device
+20:43:26,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:43:31,1,1,input Keyevent sent 4
+20:43:31,1,1,Back Button Pressed
+20:43:33,1,1,Action ->Tap 700 700
+20:43:36,1,1,input Keyevent sent 3
+20:43:36,1,1,Home Button Pressed
+20:43:39,1,1,Launching Hayday Game
+20:43:39,1,1,b''
+20:43:59,1,1,Screen Captured on Device
+20:43:59,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:44:03,2,1,Recentering screen
+20:44:03,1,1,Executing zoomOut.sh
+20:44:03,1,1,b''
+20:44:03,1,1,Executing zoomOut.sh
+20:44:03,1,1,b''
+20:44:03,1,1,Action ->swipe 200 500 400 750 100
+20:44:03,1,1,Action ->swipe 200 500 400 750 100
+20:44:04,1,1,Action ->swipe 200 500 400 750 100
+20:44:04,1,1,Action ->swipe 200 500 400 750 100
+20:44:04,2,1,Recentered screen
+20:44:07,1,1,Screen Captured on Device
+20:44:07,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:44:12,1,1,input Keyevent sent 4
+20:44:12,1,1,Back Button Pressed
+20:44:14,1,1,Action ->Tap 700 700
+20:44:17,1,1,input Keyevent sent 3
+20:44:17,1,1,Home Button Pressed
+20:44:20,1,1,Launching Hayday Game
+20:44:20,1,1,b''
+20:44:40,1,1,Screen Captured on Device
+20:44:40,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:44:44,2,1,Recentering screen
+20:44:44,1,1,Executing zoomOut.sh
+20:44:44,1,1,b''
+20:44:44,1,1,Executing zoomOut.sh
+20:44:44,1,1,b''
+20:44:44,1,1,Action ->swipe 200 500 400 750 100
+20:44:44,1,1,Action ->swipe 200 500 400 750 100
+20:44:45,1,1,Action ->swipe 200 500 400 750 100
+20:44:45,1,1,Action ->swipe 200 500 400 750 100
+20:44:45,2,1,Recentered screen
+20:44:48,1,1,Screen Captured on Device
+20:44:48,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:44:53,1,1,input Keyevent sent 4
+20:44:53,1,1,Back Button Pressed
+20:44:55,1,1,Action ->Tap 700 700
+20:44:58,1,1,input Keyevent sent 3
+20:44:58,1,1,Home Button Pressed
+20:45:01,1,1,Launching Hayday Game
+20:45:01,1,1,b''
+20:45:21,1,1,Screen Captured on Device
+20:45:21,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:45:25,2,1,Recentering screen
+20:45:25,1,1,Executing zoomOut.sh
+20:45:25,1,1,b''
+20:45:25,1,1,Executing zoomOut.sh
+20:45:25,1,1,b''
+20:45:25,1,1,Action ->swipe 200 500 400 750 100
+20:45:25,1,1,Action ->swipe 200 500 400 750 100
+20:45:26,1,1,Action ->swipe 200 500 400 750 100
+20:45:26,1,1,Action ->swipe 200 500 400 750 100
+20:45:26,2,1,Recentered screen
+20:45:29,1,1,Screen Captured on Device
+20:45:29,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:45:34,1,1,input Keyevent sent 4
+20:45:34,1,1,Back Button Pressed
+20:45:36,1,1,Action ->Tap 700 700
+20:45:39,1,1,input Keyevent sent 3
+20:45:39,1,1,Home Button Pressed
+20:45:42,1,1,Launching Hayday Game
+20:45:42,1,1,b''
+20:46:02,1,1,Screen Captured on Device
+20:46:02,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:46:06,2,1,Recentering screen
+20:46:06,1,1,Executing zoomOut.sh
+20:46:06,1,1,b''
+20:46:06,1,1,Executing zoomOut.sh
+20:46:06,1,1,b''
+20:46:06,1,1,Action ->swipe 200 500 400 750 100
+20:46:06,1,1,Action ->swipe 200 500 400 750 100
+20:46:07,1,1,Action ->swipe 200 500 400 750 100
+20:46:07,1,1,Action ->swipe 200 500 400 750 100
+20:46:07,2,1,Recentered screen
+20:46:10,1,1,Screen Captured on Device
+20:46:10,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:46:15,1,1,input Keyevent sent 4
+20:46:15,1,1,Back Button Pressed
+20:46:17,1,1,Action ->Tap 700 700
+20:46:20,1,1,input Keyevent sent 3
+20:46:20,1,1,Home Button Pressed
+20:46:23,1,1,Launching Hayday Game
+20:46:23,1,1,b''
+20:46:43,1,1,Screen Captured on Device
+20:46:43,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:46:47,2,1,Recentering screen
+20:46:47,1,1,Executing zoomOut.sh
+20:46:47,1,1,b''
+20:46:47,1,1,Executing zoomOut.sh
+20:46:47,1,1,b''
+20:46:47,1,1,Action ->swipe 200 500 400 750 100
+20:46:47,1,1,Action ->swipe 200 500 400 750 100
+20:46:48,1,1,Action ->swipe 200 500 400 750 100
+20:46:48,1,1,Action ->swipe 200 500 400 750 100
+20:46:48,2,1,Recentered screen
+20:46:51,1,1,Screen Captured on Device
+20:46:51,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:46:56,1,1,input Keyevent sent 4
+20:46:56,1,1,Back Button Pressed
+20:46:58,1,1,Action ->Tap 700 700
+20:47:01,1,1,input Keyevent sent 3
+20:47:01,1,1,Home Button Pressed
+20:47:04,1,1,Launching Hayday Game
+20:47:04,1,1,b''
+20:47:24,1,1,Screen Captured on Device
+20:47:24,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:47:28,2,1,Recentering screen
+20:47:28,1,1,Executing zoomOut.sh
+20:47:28,1,1,b''
+20:47:28,1,1,Executing zoomOut.sh
+20:47:28,1,1,b''
+20:47:28,1,1,Action ->swipe 200 500 400 750 100
+20:47:28,1,1,Action ->swipe 200 500 400 750 100
+20:47:28,1,1,Action ->swipe 200 500 400 750 100
+20:47:29,1,1,Action ->swipe 200 500 400 750 100
+20:47:29,2,1,Recentered screen
+20:47:32,1,1,Screen Captured on Device
+20:47:32,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:47:37,1,1,input Keyevent sent 4
+20:47:37,1,1,Back Button Pressed
+20:47:39,1,1,Action ->Tap 700 700
+20:47:42,1,1,input Keyevent sent 3
+20:47:42,1,1,Home Button Pressed
+20:47:45,1,1,Launching Hayday Game
+20:47:45,1,1,b''
+20:48:05,1,1,Screen Captured on Device
+20:48:05,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:48:09,2,1,Recentering screen
+20:48:09,1,1,Executing zoomOut.sh
+20:48:09,1,1,b''
+20:48:09,1,1,Executing zoomOut.sh
+20:48:09,1,1,b''
+20:48:09,1,1,Action ->swipe 200 500 400 750 100
+20:48:09,1,1,Action ->swipe 200 500 400 750 100
+20:48:09,1,1,Action ->swipe 200 500 400 750 100
+20:48:10,1,1,Action ->swipe 200 500 400 750 100
+20:48:10,2,1,Recentered screen
+20:48:13,1,1,Screen Captured on Device
+20:48:13,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:48:18,1,1,input Keyevent sent 4
+20:48:18,1,1,Back Button Pressed
+20:48:20,1,1,Action ->Tap 700 700
+20:48:23,1,1,input Keyevent sent 3
+20:48:23,1,1,Home Button Pressed
+20:48:26,1,1,Launching Hayday Game
+20:48:26,1,1,b''
+20:48:46,1,1,Screen Captured on Device
+20:48:46,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:48:50,2,1,Recentering screen
+20:48:50,1,1,Executing zoomOut.sh
+20:48:50,1,1,b''
+20:48:50,1,1,Executing zoomOut.sh
+20:48:50,1,1,b''
+20:48:50,1,1,Action ->swipe 200 500 400 750 100
+20:48:50,1,1,Action ->swipe 200 500 400 750 100
+20:48:50,1,1,Action ->swipe 200 500 400 750 100
+20:48:51,1,1,Action ->swipe 200 500 400 750 100
+20:48:51,2,1,Recentered screen
+20:48:54,1,1,Screen Captured on Device
+20:48:54,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:48:59,1,1,input Keyevent sent 4
+20:48:59,1,1,Back Button Pressed
+20:49:01,1,1,Action ->Tap 700 700
+20:49:04,1,1,input Keyevent sent 3
+20:49:04,1,1,Home Button Pressed
+20:49:07,1,1,Launching Hayday Game
+20:49:07,1,1,b''
+20:49:27,1,1,Screen Captured on Device
+20:49:27,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:49:31,2,1,Recentering screen
+20:49:31,1,1,Executing zoomOut.sh
+20:49:31,1,1,b''
+20:49:31,1,1,Executing zoomOut.sh
+20:49:31,1,1,b''
+20:49:31,1,1,Action ->swipe 200 500 400 750 100
+20:49:31,1,1,Action ->swipe 200 500 400 750 100
+20:49:31,1,1,Action ->swipe 200 500 400 750 100
+20:49:31,1,1,Action ->swipe 200 500 400 750 100
+20:49:31,2,1,Recentered screen
+20:49:35,1,1,Screen Captured on Device
+20:49:35,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:49:40,1,1,input Keyevent sent 4
+20:49:40,1,1,Back Button Pressed
+20:49:42,1,1,Action ->Tap 700 700
+20:49:45,1,1,input Keyevent sent 3
+20:49:45,1,1,Home Button Pressed
+20:49:48,1,1,Launching Hayday Game
+20:49:48,1,1,b''
+20:50:08,1,1,Screen Captured on Device
+20:50:08,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:50:12,2,1,Recentering screen
+20:50:12,1,1,Executing zoomOut.sh
+20:50:12,1,1,b''
+20:50:12,1,1,Executing zoomOut.sh
+20:50:12,1,1,b''
+20:50:12,1,1,Action ->swipe 200 500 400 750 100
+20:50:12,1,1,Action ->swipe 200 500 400 750 100
+20:50:12,1,1,Action ->swipe 200 500 400 750 100
+20:50:12,1,1,Action ->swipe 200 500 400 750 100
+20:50:12,2,1,Recentered screen
+20:50:15,1,1,Screen Captured on Device
+20:50:16,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:50:21,1,1,input Keyevent sent 4
+20:50:21,1,1,Back Button Pressed
+20:50:23,1,1,Action ->Tap 700 700
+20:50:26,1,1,input Keyevent sent 3
+20:50:26,1,1,Home Button Pressed
+20:50:29,1,1,Launching Hayday Game
+20:50:29,1,1,b''
+20:50:49,1,1,Screen Captured on Device
+20:50:49,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:50:53,2,1,Recentering screen
+20:50:53,1,1,Executing zoomOut.sh
+20:50:53,1,1,b''
+20:50:53,1,1,Executing zoomOut.sh
+20:50:53,1,1,b''
+20:50:53,1,1,Action ->swipe 200 500 400 750 100
+20:50:53,1,1,Action ->swipe 200 500 400 750 100
+20:50:53,1,1,Action ->swipe 200 500 400 750 100
+20:50:53,1,1,Action ->swipe 200 500 400 750 100
+20:50:53,2,1,Recentered screen
+20:50:56,1,1,Screen Captured on Device
+20:50:56,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:51:02,1,1,input Keyevent sent 4
+20:51:02,1,1,Back Button Pressed
+20:51:04,1,1,Action ->Tap 700 700
+20:51:07,1,1,input Keyevent sent 3
+20:51:07,1,1,Home Button Pressed
+20:51:10,1,1,Launching Hayday Game
+20:51:10,1,1,b''
+20:51:30,1,1,Screen Captured on Device
+20:51:30,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:51:34,2,1,Recentering screen
+20:51:34,1,1,Executing zoomOut.sh
+20:51:34,1,1,b''
+20:51:34,1,1,Executing zoomOut.sh
+20:51:34,1,1,b''
+20:51:34,1,1,Action ->swipe 200 500 400 750 100
+20:51:34,1,1,Action ->swipe 200 500 400 750 100
+20:51:34,1,1,Action ->swipe 200 500 400 750 100
+20:51:34,1,1,Action ->swipe 200 500 400 750 100
+20:51:34,2,1,Recentered screen
+20:51:37,1,1,Screen Captured on Device
+20:51:37,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:51:43,1,1,input Keyevent sent 4
+20:51:43,1,1,Back Button Pressed
+20:51:45,1,1,Action ->Tap 700 700
+20:51:48,1,1,input Keyevent sent 3
+20:51:48,1,1,Home Button Pressed
+20:51:51,1,1,Launching Hayday Game
+20:51:51,1,1,b''
+20:52:11,1,1,Screen Captured on Device
+20:52:11,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:52:15,2,1,Recentering screen
+20:52:15,1,1,Executing zoomOut.sh
+20:52:15,1,1,b''
+20:52:15,1,1,Executing zoomOut.sh
+20:52:15,1,1,b''
+20:52:15,1,1,Action ->swipe 200 500 400 750 100
+20:52:15,1,1,Action ->swipe 200 500 400 750 100
+20:52:15,1,1,Action ->swipe 200 500 400 750 100
+20:52:15,1,1,Action ->swipe 200 500 400 750 100
+20:52:15,2,1,Recentered screen
+20:52:18,1,1,Screen Captured on Device
+20:52:18,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:52:23,1,1,input Keyevent sent 4
+20:52:23,1,1,Back Button Pressed
+20:52:26,1,1,Action ->Tap 700 700
+20:52:29,1,1,input Keyevent sent 3
+20:52:29,1,1,Home Button Pressed
+20:52:32,1,1,Launching Hayday Game
+20:52:32,1,1,b''
+20:52:52,1,1,Screen Captured on Device
+20:52:52,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:52:56,2,1,Recentering screen
+20:52:56,1,1,Executing zoomOut.sh
+20:52:56,1,1,b''
+20:52:56,1,1,Executing zoomOut.sh
+20:52:56,1,1,b''
+20:52:56,1,1,Action ->swipe 200 500 400 750 100
+20:52:56,1,1,Action ->swipe 200 500 400 750 100
+20:52:56,1,1,Action ->swipe 200 500 400 750 100
+20:52:56,1,1,Action ->swipe 200 500 400 750 100
+20:52:56,2,1,Recentered screen
+20:52:59,1,1,Screen Captured on Device
+20:52:59,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:53:04,1,1,input Keyevent sent 4
+20:53:04,1,1,Back Button Pressed
+20:53:07,1,1,Action ->Tap 700 700
+20:53:10,1,1,input Keyevent sent 3
+20:53:10,1,1,Home Button Pressed
+20:53:13,1,1,Launching Hayday Game
+20:53:13,1,1,b''
+20:53:33,1,1,Screen Captured on Device
+20:53:33,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:53:37,2,1,Recentering screen
+20:53:37,1,1,Executing zoomOut.sh
+20:53:37,1,1,b''
+20:53:37,1,1,Executing zoomOut.sh
+20:53:37,1,1,b''
+20:53:37,1,1,Action ->swipe 200 500 400 750 100
+20:53:37,1,1,Action ->swipe 200 500 400 750 100
+20:53:37,1,1,Action ->swipe 200 500 400 750 100
+20:53:37,1,1,Action ->swipe 200 500 400 750 100
+20:53:37,2,1,Recentered screen
+20:53:40,1,1,Screen Captured on Device
+20:53:40,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:53:45,1,1,input Keyevent sent 4
+20:53:45,1,1,Back Button Pressed
+20:53:47,1,1,Action ->Tap 700 700
+20:53:51,1,1,input Keyevent sent 3
+20:53:51,1,1,Home Button Pressed
+20:53:54,1,1,Launching Hayday Game
+20:53:54,1,1,b''
+20:54:14,1,1,Screen Captured on Device
+20:54:14,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:54:18,2,1,Recentering screen
+20:54:18,1,1,Executing zoomOut.sh
+20:54:18,1,1,b''
+20:54:18,1,1,Executing zoomOut.sh
+20:54:18,1,1,b''
+20:54:18,1,1,Action ->swipe 200 500 400 750 100
+20:54:18,1,1,Action ->swipe 200 500 400 750 100
+20:54:18,1,1,Action ->swipe 200 500 400 750 100
+20:54:18,1,1,Action ->swipe 200 500 400 750 100
+20:54:18,2,1,Recentered screen
+20:54:21,1,1,Screen Captured on Device
+20:54:21,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:54:26,1,1,input Keyevent sent 4
+20:54:26,1,1,Back Button Pressed
+20:54:28,1,1,Action ->Tap 700 700
+20:54:32,1,1,input Keyevent sent 3
+20:54:32,1,1,Home Button Pressed
+20:54:35,1,1,Launching Hayday Game
+20:54:35,1,1,b''
+20:54:55,1,1,Screen Captured on Device
+20:54:55,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:54:59,2,1,Recentering screen
+20:54:59,1,1,Executing zoomOut.sh
+20:54:59,1,1,b''
+20:54:59,1,1,Executing zoomOut.sh
+20:54:59,1,1,b''
+20:54:59,1,1,Action ->swipe 200 500 400 750 100
+20:54:59,1,1,Action ->swipe 200 500 400 750 100
+20:54:59,1,1,Action ->swipe 200 500 400 750 100
+20:54:59,1,1,Action ->swipe 200 500 400 750 100
+20:54:59,2,1,Recentered screen
+20:55:02,1,1,Screen Captured on Device
+20:55:02,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:55:07,1,1,input Keyevent sent 4
+20:55:07,1,1,Back Button Pressed
+20:55:09,1,1,Action ->Tap 700 700
+20:55:13,1,1,input Keyevent sent 3
+20:55:13,1,1,Home Button Pressed
+20:55:16,1,1,Launching Hayday Game
+20:55:16,1,1,b''
+20:55:36,1,1,Screen Captured on Device
+20:55:36,1,1,b'adb: error: failed to get feature set: more than one device/'
+20:55:40,2,1,Recentering screen
+20:55:40,1,1,Executing zoomOut.sh
+20:55:40,1,1,b''
+20:55:40,1,1,Executing zoomOut.sh
+20:55:40,1,1,b''
+20:55:40,1,1,Action ->swipe 200 500 400 750 100
+20:55:40,1,1,Action ->swipe 200 500 400 750 100
+20:55:40,1,1,Action ->swipe 200 500 400 750 100
+20:55:40,1,1,Action ->swipe 200 500 400 750 100
+20:55:40,2,1,Recentered screen
+20:55:43,1,1,Screen Captured on Device
+20:55:43,1,1,b'adb: error: failed to get feature set: device offline\r\n'
+20:55:48,1,1,input Keyevent sent 4
+20:55:48,1,1,Back Button Pressed
+20:55:50,1,1,Action ->Tap 700 700
+20:55:53,1,1,input Keyevent sent 3
+20:55:53,1,1,Home Button Pressed
+15:47:29,1,1,HappyLogger Class-instance Created
+15:47:29,2,3,Live Log Displayer Launched
+15:47:29,2,3,Memu Has been Launched through consol
+15:48:05,1,1,HappyLogger Class-instance Created
+15:48:05,2,3,Live Log Displayer Launched
+15:48:05,2,3,Memu Has been Launched through consol
+15:48:55,2,5,Killing ADB server
+15:48:56,2,5,Starting ADB server
+15:49:03,2,5,Attempting to See attached Devices
+15:49:03,1,6,No Device Found
+15:49:03,1,1,Launching Hayday Game
+15:49:03,1,1,b''
+22:51:20,1,1,HappyLogger Class-instance Created
+22:51:20,2,3,Live Log Displayer Launched
+22:51:20,2,3,Memu Has been Launched through consol
+22:52:10,2,5,Killing ADB server
+22:52:10,2,5,Starting ADB server
+22:52:17,2,5,Attempting to See attached Devices
+22:52:17,1,6,No Device Found
+22:52:17,2,5,Attempting to establish connection
+22:52:17,1,5,b'connected to localhost:21503\r\n'
+22:52:17,1,1,Launching Hayday Game
+22:52:18,1,1,b'Starting: Intent { act=android.intent.action.MAIN cat=[andro'
+22:52:39,1,1,Screen Captured on Device
+22:52:39,1,1,b'/storage/emulated/0/Project_X/screenCapture/screenshot.png: '
+22:52:43,2,1,Recentering screen
+22:52:48,1,1,Executing zoomOut.sh
+22:52:48,1,1,b'Zooming_out\r\nFinished\r\n'
+22:52:53,1,1,Executing zoomOut.sh
+22:52:53,1,1,b'Zooming_out\r\nFinished\r\n'
+22:52:54,1,1,Action ->swipe 200 500 400 750 100
+22:52:54,1,1,Action ->swipe 200 500 400 750 100
+22:52:54,1,1,Action ->swipe 200 500 400 750 100
+22:52:55,1,1,Action ->swipe 200 500 400 750 100
+22:52:55,2,1,Recentered screen
+22:52:59,1,1,Screen Captured on Device
+22:52:59,1,1,b'/storage/emulated/0/Project_X/screenCapture/screenshot.png: '
+22:53:05,1,1,input Keyevent sent 4
+22:53:05,1,1,Back Button Pressed
+22:53:07,1,1,Action ->Tap 700 700
+22:53:11,1,1,input Keyevent sent 3
+22:53:11,1,1,Home Button Pressed
+22:53:14,1,1,Launching Hayday Game
+22:53:14,1,1,b'Starting: Intent { act=android.intent.action.MAIN cat=[andro'
+22:53:36,1,1,Screen Captured on Device
+22:53:36,1,1,b'/storage/emulated/0/Project_X/screenCapture/screenshot.png: '
+22:53:40,2,1,Recentering screen
+22:53:45,1,1,Executing zoomOut.sh
+22:53:45,1,1,b'Zooming_out\r\nFinished\r\n'
+22:53:49,1,1,Executing zoomOut.sh
+22:53:49,1,1,b'Zooming_out\r\nFinished\r\n'
+22:53:50,1,1,Action ->swipe 200 500 400 750 100
+22:53:50,1,1,Action ->swipe 200 500 400 750 100
+22:53:50,1,1,Action ->swipe 200 500 400 750 100
+22:53:51,1,1,Action ->swipe 200 500 400 750 100
+22:53:51,2,1,Recentered screen
+22:53:55,1,1,Screen Captured on Device
+22:53:55,1,1,b'/storage/emulated/0/Project_X/screenCapture/screenshot.png: '
+22:54:00,1,1,input Keyevent sent 4
+22:54:00,1,1,Back Button Pressed
+22:54:03,1,1,Action ->Tap 700 700
+22:54:06,1,1,input Keyevent sent 3
+22:54:06,1,1,Home Button Pressed
+22:54:09,1,1,Launching Hayday Game
+22:54:09,1,1,b'Starting: Intent { act=android.intent.action.MAIN cat=[andro'
+22:54:30,1,1,Screen Captured on Device
+22:54:30,1,1,b'/storage/emulated/0/Project_X/screenCapture/screenshot.png: '
+22:54:35,2,1,Recentering screen
+22:54:40,1,1,Executing zoomOut.sh
+22:54:40,1,1,b'Zooming_out\r\nFinished\r\n'
+22:54:44,1,1,Executing zoomOut.sh
+22:54:44,1,1,b'Zooming_out\r\nFinished\r\n'
+22:54:45,1,1,Action ->swipe 200 500 400 750 100
+22:54:45,1,1,Action ->swipe 200 500 400 750 100
+22:54:46,1,1,Action ->swipe 200 500 400 750 100
+22:54:46,1,1,Action ->swipe 200 500 400 750 100
+22:54:46,2,1,Recentered screen
+22:54:50,1,1,Screen Captured on Device
+22:54:50,1,1,b'/storage/emulated/0/Project_X/screenCapture/screenshot.png: '
+22:54:55,1,1,input Keyevent sent 4
+22:54:55,1,1,Back Button Pressed
+22:54:58,1,1,Action ->Tap 700 700
+22:55:01,1,1,input Keyevent sent 3
+22:55:01,1,1,Home Button Pressed
+22:55:04,1,1,Launching Hayday Game
+22:55:04,1,1,b'Starting: Intent { act=android.intent.action.MAIN cat=[andro'
+22:55:26,1,1,Screen Captured on Device
+22:55:26,1,1,b'/storage/emulated/0/Project_X/screenCapture/screenshot.png: '
+22:55:30,2,1,Recentering screen
+22:55:35,1,1,Executing zoomOut.sh
+22:55:35,1,1,b'Zooming_out\r\nFinished\r\n'
+22:55:39,1,1,Executing zoomOut.sh
+22:55:39,1,1,b'Zooming_out\r\nFinished\r\n'
+22:55:40,1,1,Action ->swipe 200 500 400 750 100
+22:55:40,1,1,Action ->swipe 200 500 400 750 100
+22:55:41,1,1,Action ->swipe 200 500 400 750 100
+22:55:41,1,1,Action ->swipe 200 500 400 750 100
+22:55:41,2,1,Recentered screen
+22:55:46,1,1,Screen Captured on Device
+22:55:46,1,1,b'/storage/emulated/0/Project_X/screenCapture/screenshot.png: '
+22:55:52,1,1,input Keyevent sent 4
+22:55:52,1,1,Back Button Pressed
+22:55:54,1,1,Action ->Tap 700 700
+22:55:58,1,1,input Keyevent sent 3
+22:55:58,1,1,Home Button Pressed
+22:56:01,1,1,Launching Hayday Game
+22:56:01,1,1,b'Starting: Intent { act=android.intent.action.MAIN cat=[andro'
+22:56:22,1,1,Screen Captured on Device
+22:56:22,1,1,b'/storage/emulated/0/Project_X/screenCapture/screenshot.png: '
+22:56:26,2,1,Recentering screen
+22:56:31,1,1,Executing zoomOut.sh
+22:56:31,1,1,b'Zooming_out\r\nFinished\r\n'
+22:56:36,1,1,Executing zoomOut.sh
+22:56:36,1,1,b'Zooming_out\r\nFinished\r\n'
+22:56:36,1,1,Action ->swipe 200 500 400 750 100
+22:56:37,1,1,Action ->swipe 200 500 400 750 100
+22:56:37,1,1,Action ->swipe 200 500 400 750 100
+22:56:38,1,1,Action ->swipe 200 500 400 750 100
+22:56:38,2,1,Recentered screen
+22:56:42,1,1,Screen Captured on Device
+22:56:42,1,1,b'/storage/emulated/0/Project_X/screenCapture/screenshot.png: '
+22:56:48,1,1,input Keyevent sent 4
+22:56:48,1,1,Back Button Pressed
+22:56:50,1,1,Action ->Tap 700 700
+22:56:54,1,1,input Keyevent sent 3
+22:56:54,1,1,Home Button Pressed
+22:56:57,1,1,Launching Hayday Game
+22:56:57,1,1,b'Starting: Intent { act=android.intent.action.MAIN cat=[andro'
+22:57:18,1,1,Screen Captured on Device
+22:57:18,1,1,b'/storage/emulated/0/Project_X/screenCapture/screenshot.png: '
+22:57:23,2,1,Recentering screen
+22:57:27,1,1,Executing zoomOut.sh
+22:57:27,1,1,b'Zooming_out\r\nFinished\r\n'
+22:57:31,1,1,Executing zoomOut.sh
+22:57:31,1,1,b'Zooming_out\r\nFinished\r\n'
+22:57:32,1,1,Action ->swipe 200 500 400 750 100
+22:57:32,1,1,Action ->swipe 200 500 400 750 100
+22:57:33,1,1,Action ->swipe 200 500 400 750 100
+22:57:33,1,1,Action ->swipe 200 500 400 750 100
+22:57:33,2,1,Recentered screen
+23:00:18,1,1,HappyLogger Class-instance Created
+23:00:18,2,3,Live Log Displayer Launched
+23:00:18,2,3,Memu Has been Launched through consol
+23:01:08,2,5,Killing ADB server
+23:01:08,2,5,Starting ADB server
+23:01:15,2,5,Attempting to See attached Devices
+23:01:15,1,6,No Device Found
+23:01:15,2,5,Attempting to establish connection
+23:01:15,1,5,b'connected to localhost:21503\r\n'
+23:01:15,1,1,Launching Hayday Game
+23:01:16,1,1,b'Starting: Intent { act=android.intent.action.MAIN cat=[andro'
+23:01:36,1,1,Screen Captured on Device
+23:01:37,1,1,b'/storage/emulated/0/Project_X/screenCapture/screenshot.png: '
+23:01:41,2,1,Recentering screen
+23:01:46,1,1,Executing zoomOut.sh
+23:01:46,1,1,b'Zooming_out\r\nFinished\r\n'
+23:01:51,1,1,Executing zoomOut.sh
+23:01:51,1,1,b'Zooming_out\r\nFinished\r\n'
+23:01:51,1,1,Action ->swipe 200 500 400 750 100
+23:01:52,1,1,Action ->swipe 200 500 400 750 100
+23:01:52,1,1,Action ->swipe 200 500 400 750 100
+23:01:52,1,1,Action ->swipe 200 500 400 750 100
+23:01:52,2,1,Recentered screen
+23:01:57,1,1,Screen Captured on Device
+23:01:57,1,1,b'/storage/emulated/0/Project_X/screenCapture/screenshot.png: '
+23:02:02,1,1,input Keyevent sent 4
+23:02:02,1,1,Back Button Pressed
+23:02:05,1,1,Action ->Tap 700 700
+23:02:08,1,1,input Keyevent sent 3
+23:02:08,1,1,Home Button Pressed
+23:02:11,1,1,Launching Hayday Game
+23:02:11,1,1,b'Starting: Intent { act=android.intent.action.MAIN cat=[andro'
+23:02:32,1,1,Screen Captured on Device
+23:02:32,1,1,b'/storage/emulated/0/Project_X/screenCapture/screenshot.png: '
+23:02:37,2,1,Recentering screen
+23:02:42,1,1,Executing zoomOut.sh
+23:02:42,1,1,b'Zooming_out\r\nFinished\r\n'
+23:02:46,1,1,Executing zoomOut.sh
+23:02:46,1,1,b'Zooming_out\r\nFinished\r\n'
+23:02:46,1,1,Action ->swipe 200 500 400 750 100
+23:02:47,1,1,Action ->swipe 200 500 400 750 100
+23:02:47,1,1,Action ->swipe 200 500 400 750 100
+23:02:48,1,1,Action ->swipe 200 500 400 750 100
+23:02:48,2,1,Recentered screen
+23:02:52,1,1,Screen Captured on Device
+23:02:52,1,1,b'/storage/emulated/0/Project_X/screenCapture/screenshot.png: '
+23:02:58,1,1,input Keyevent sent 4
+23:02:58,1,1,Back Button Pressed
+23:03:00,1,1,Action ->Tap 700 700
+23:03:03,1,1,input Keyevent sent 3
+23:03:03,1,1,Home Button Pressed
+23:03:06,1,1,Launching Hayday Game
+23:03:07,1,1,b'Starting: Intent { act=android.intent.action.MAIN cat=[andro'
+23:03:27,1,1,Screen Captured on Device
+23:03:27,1,1,b'/storage/emulated/0/Project_X/screenCapture/screenshot.png: '
+23:03:32,2,1,Recentering screen
+23:03:36,1,1,Executing zoomOut.sh
+23:03:36,1,1,b'Zooming_out\r\nFinished\r\n'
+23:03:40,1,1,Executing zoomOut.sh
+23:03:40,1,1,b'Zooming_out\r\nFinished\r\n'
+23:03:40,1,1,Action ->swipe 200 500 400 750 100
+23:03:41,1,1,Action ->swipe 200 500 400 750 100
+23:03:42,1,1,Action ->swipe 200 500 400 750 100
+23:03:42,1,1,Action ->swipe 200 500 400 750 100
+23:03:42,2,1,Recentered screen
+23:03:47,1,1,Screen Captured on Device
+23:03:48,1,1,b'/storage/emulated/0/Project_X/screenCapture/screenshot.png: '
+23:03:53,1,1,input Keyevent sent 4
+23:03:53,1,1,Back Button Pressed
+23:03:55,1,1,Action ->Tap 700 700
+23:03:59,1,1,input Keyevent sent 3
+23:03:59,1,1,Home Button Pressed
+23:04:02,1,1,Launching Hayday Game
+23:04:02,1,1,b'Starting: Intent { act=android.intent.action.MAIN cat=[andro'
+23:04:11,1,1,HappyLogger Class-instance Created
+23:04:11,2,3,Live Log Displayer Launched
+23:04:11,2,3,Memu Has been Launched through consol
+23:04:21,2,5,Killing ADB server
+23:04:21,2,5,Starting ADB server
+23:04:28,2,5,Attempting to See attached Devices
+23:04:28,1,6,No Device Found
+23:04:28,2,5,Attempting to establish connection
+23:04:28,1,5,b'connected to localhost:21503\r\n'
+23:04:28,1,1,Launching Hayday Game
+23:04:28,1,1,b'Starting: Intent { act=android.intent.action.MAIN cat=[andro'
+23:04:59,1,1,Screen Captured on Device
+23:05:00,1,1,b'/storage/emulated/0/Project_X/screenCapture/screenshot.png: '
+23:05:04,2,1,Recentering screen
+23:05:09,1,1,Executing zoomOut.sh
+23:05:09,1,1,b'Zooming_out\r\nFinished\r\n'
+23:05:14,1,1,Executing zoomOut.sh
+23:05:14,1,1,b'Zooming_out\r\nFinished\r\n'
+23:05:14,1,1,Action ->swipe 200 500 400 750 100
+23:05:15,1,1,Action ->swipe 200 500 400 750 100
+23:05:15,1,1,Action ->swipe 200 500 400 750 100
+23:05:16,1,1,Action ->swipe 200 500 400 750 100
+23:05:16,2,1,Recentered screen
+23:05:20,1,1,Screen Captured on Device
+23:05:20,1,1,b'/storage/emulated/0/Project_X/screenCapture/screenshot.png: '
+23:05:25,1,1,input Keyevent sent 4
+23:05:25,1,1,Back Button Pressed
+23:05:28,1,1,Action ->Tap 700 700
+23:05:31,1,1,input Keyevent sent 3
+23:05:31,1,1,Home Button Pressed
+23:05:34,1,1,Launching Hayday Game
+23:05:34,1,1,b'Starting: Intent { act=android.intent.action.MAIN cat=[andro'
+23:06:06,1,1,Screen Captured on Device
+23:06:06,1,1,b'/storage/emulated/0/Project_X/screenCapture/screenshot.png: '
+23:06:10,2,1,Recentering screen
+23:06:15,1,1,Executing zoomOut.sh
+23:06:15,1,1,b'Zooming_out\r\nFinished\r\n'
+23:06:20,1,1,Executing zoomOut.sh
+23:06:20,1,1,b'Zooming_out\r\nFinished\r\n'
+23:06:21,1,1,Action ->swipe 200 500 400 750 100
+23:06:21,1,1,Action ->swipe 200 500 400 750 100
+23:06:22,1,1,Action ->swipe 200 500 400 750 100
+23:06:22,1,1,Action ->swipe 200 500 400 750 100
+23:06:22,2,1,Recentered screen
+23:06:27,1,1,Screen Captured on Device
+23:06:27,1,1,b'/storage/emulated/0/Project_X/screenCapture/screenshot.png: '
+23:06:32,1,1,input Keyevent sent 4
+23:06:32,1,1,Back Button Pressed
+23:06:35,1,1,Action ->Tap 700 700
+23:06:38,1,1,input Keyevent sent 3
+23:06:38,1,1,Home Button Pressed
+23:06:41,1,1,Launching Hayday Game
+23:06:41,1,1,b'Starting: Intent { act=android.intent.action.MAIN cat=[andro'
+23:07:13,1,1,Screen Captured on Device
+23:07:13,1,1,b'/storage/emulated/0/Project_X/screenCapture/screenshot.png: '
+23:07:18,2,1,Recentering screen
+23:07:23,1,1,Executing zoomOut.sh
+23:07:23,1,1,b'Zooming_out\r\nFinished\r\n'
+23:07:28,1,1,Executing zoomOut.sh
+23:07:28,1,1,b'Zooming_out\r\nFinished\r\n'
+23:07:28,1,1,Action ->swipe 200 500 400 750 100
+23:07:29,1,1,Action ->swipe 200 500 400 750 100
+23:07:29,1,1,Action ->swipe 200 500 400 750 100
+23:07:30,1,1,Action ->swipe 200 500 400 750 100
+23:07:30,2,1,Recentered screen
+23:07:34,1,1,Screen Captured on Device
+23:07:34,1,1,b'/storage/emulated/0/Project_X/screenCapture/screenshot.png: '
+23:07:40,1,1,input Keyevent sent 4
+23:07:40,1,1,Back Button Pressed
+23:07:42,1,1,Action ->Tap 700 700
+23:07:45,1,1,input Keyevent sent 3
+23:07:45,1,1,Home Button Pressed
+23:07:48,1,1,Launching Hayday Game
+16:16:23,1,1,HappyLogger Class-instance Created
+16:16:23,2,3,Live Log Displayer Launched
+16:16:23,2,3,Memu Has been Launched through consol
+16:17:55,1,1,HappyLogger Class-instance Created
+16:17:55,2,3,Live Log Displayer Launched
+16:17:55,2,3,Memu Has been Launched through consol
+16:17:57,2,5,Killing ADB server
+16:17:57,2,5,Starting ADB server
+16:18:04,2,5,Attempting to See attached Devices
+16:18:04,1,6,No Device Found
+16:18:04,2,5,Attempting to establish connection
+16:18:04,1,5,b'connected to localhost:21503\r\n'
+16:18:04,1,1,Launching Hayday Game
+16:18:05,1,1,b'Starting: Intent { act=android.intent.action.MAIN cat=[andro'
+16:18:06,1,1,Screen Captured on Device
+16:18:06,1,1,b"adb: error: remote object '/storage/emulated/0/Project_X/sc/"

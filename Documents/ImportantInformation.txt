@@ -1,0 +1,12 @@
+case :Loging
+	logLevels[6] = { "PerFormingWell","Low Impact","Medium Impact","Intermediate","High Impact","Critical Impact"};
+	logTypes[2] = { "adb","cmd" };
+
+connect memu port :21503
+
+
+case:MyBashScripts
+	path /data/MyBashScripts/
+	BashScripts =>
+		zoomIn.sh
+		zoomOut.sh
